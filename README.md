@@ -1,5 +1,4 @@
 Collection of MPV scripts and configs I've made or forked.  
-Not interested in maintaining so they are in gists. Feel free to create a repository.
 
 ## MPV Scripts
 [Track Selector](https://gist.github.com/dfts8ef/b6b646ac5cd374f9ba15ec0e2c053a03) - Automatically select audio and subtitle tracks based on defined profiles  
